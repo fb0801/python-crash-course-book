@@ -1,2 +1,2 @@
-# python-crash-course-book
-Python crash course book code
+# python jupyter
+Python jupyter code
