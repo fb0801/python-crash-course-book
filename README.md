@@ -8,4 +8,10 @@ Python jupyter code
 <li>https://www.anaconda.com/products/distribution</li>
 </ul>
 
-<>
+<h3>Installing</h3>
+You will first need to install anaconda on your machine in order to use jupyter
+
+<h3>Issues:</h3>
+
+
+<h3>Changes made</h3>
