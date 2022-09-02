@@ -16,6 +16,8 @@ You will first need to install anaconda on your machine in order to use jupyter
 <li>https://en.wikipedia.org/wiki/List_of_The_Simpsons_episodes_(seasons_1%E2%80%9320)#Season_1_(1989%E2%80%9390)</li>
 <li>https://www.football-data.co.uk/</li>
 <li>https://www.youtube.com/watch?v=PXMJ6FS7llk</li>
+<li>https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html</li>
+<li>https://www.w3schools.com/python/matplotlib_labels.asp</li>
 </ul>
 
 
